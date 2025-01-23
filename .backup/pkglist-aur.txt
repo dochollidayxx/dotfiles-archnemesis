@@ -1,0 +1,6 @@
+1password
+clipse
+overskride
+protontricks
+python-vdf
+xpadneo-dkms
